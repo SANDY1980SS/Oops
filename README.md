@@ -1,2 +1,2 @@
 # Oops
-It contains the code of Oops concept in java language.
+It contains the code of Oops concepts in java language.
